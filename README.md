@@ -1,2 +1,2 @@
 # employeeDirectory
-GW Coding Boot Camp Homework #19 
+GW Coding Bootcamp Homework #19 
